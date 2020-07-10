@@ -1,0 +1,229 @@
+[
+  {
+    "abbr": "ND",
+    "name": "Noodles",
+    "cuisine": "Chinese"
+    
+  },
+  {
+    "abbr": "BC",
+    "name": "Butter Chicken",
+    "cuisine": "Indian"
+  },
+  {
+    "abbr": "MN",
+    "name": "Munchoorian",
+    "cuisine": "Chinese"
+  },
+  {
+    "abbr": "SH",
+    "name": "Sushi",
+    "cuisine": "Japanese"
+  },
+  {
+    "abbr": "BR",
+    "name": "Biryani",
+    "cuisine": "Indian"
+  },
+  {
+    "abbr": "PT",
+    "name": "Pasta",
+    "cuisine": "Italian"
+  },
+  {
+    "abbr": "PZ",
+    "name": "Pizza",
+    "cuisine": "Italian"
+  },
+  {
+    "abbr": "BG",
+    "name": "Burger",
+    "cuisine": "American"
+  },
+  {
+    "abbr": "HD",
+    "name": "Hot Dog",
+    "cuisine": "American"
+  },
+  {
+    "abbr": "AP",
+    "name": "Aloo Parantha",
+    "cuisine": "Indian"
+  },
+  {
+    "abbr": "MC",
+    "name": "MAC AND CHEESE",
+    "cuisine": "American"
+  },
+  {
+    "abbr": "Kb",
+    "name": "Kebab",
+    "cuisine": "Saudi Arabia"
+  },
+  {
+    "abbr": "SR",
+    "name": "Spring Rolls",
+    "cuisine": "Chinese"
+  },
+  {
+    "abbr": "MM",
+    "name": "Dumplings",
+    "cuisine": "Chinese"
+  },
+  {
+    "abbr": "TM",
+    "name": "Tom Yum",
+    "cuisine": "Thai"
+  },
+  {
+    "abbr": "MS",
+    "name": "Raw Mango Salad",
+    "cuisine": "Thai"
+  },
+  {
+    "abbr": "PT",
+    "name": "Pad Thai",
+    "cuisine": "Thai"
+  },
+  {
+    "abbr": "PC",
+    "name": "Pineapple Chutney",
+    "cuisine": "Thai"
+  },
+  {
+    "abbr": "TC",
+    "name": "Taco",
+    "cuisine": "Mexican"
+  },
+  {
+    "abbr": "BRU",
+    "name": "Burrito",
+    "cuisine": "Mexican"
+  },
+  {
+    "abbr": "TS",
+    "name": "Tomato Salsa",
+    "cuisine": "Mexican"
+  },
+  {
+    "abbr": "GM",
+    "name": "Guacmole",
+    "cuisine": "Mexican"
+  },
+  {
+    "abbr": "CR",
+    "name": "Crepe",
+    "cuisine": "French"
+  },
+  {
+    "abbr": "PM",
+    "name": "Pate Maison",
+    "cuisine": "French"
+  },
+  {
+    "abbr": "LM",
+    "name": "Laal Maas",
+    "cuisine": "Indian"
+  },
+  {
+    "abbr": "ls",
+    "name": "Lassi",
+    "cuisine": "Indian"
+  },
+  {
+    "abbr": "RM",
+    "name": "Rasmalai",
+    "cuisine": "Indian"
+  },
+  {
+    "abbr": "DS",
+    "name": "Dosa",
+    "cuisine": "Indian"
+  },
+  {
+    "abbr": "NA",
+    "name": "Ney Appam",
+    "cuisine": "Indian"
+  },
+  {
+    "abbr": "CN",
+    "name": "Chur Chur Naan",
+    "cuisine": "Indian"
+  },
+  {
+    "abbr": "DM",
+    "name": "Dal Makhani",
+    "cuisine": "Indian"
+  },
+  {
+    "abbr": "ID",
+    "name": "Idli",
+    "cuisine": "Indian"
+  },
+  {
+    "abbr": "SM",
+    "name": "Samosa",
+    "cuisine": "Indian"
+  },
+  {
+    "abbr": "IY",
+    "name": "Ishi Yaki",
+    "cuisine": "Japanese"
+  },
+  {
+    "abbr": "SN",
+    "name": "Soba Noodles",
+    "cuisine": "Japanese"
+  },
+  {
+    "abbr": "BH",
+    "name": "Bhelpuri",
+    "cuisine": "Indian"
+  },
+  {
+    "abbr": "HL",
+    "name": "Haleem",
+    "cuisine": "Pakistani"
+  },
+  {
+    "abbr": "PC",
+    "name": "Paya Curry",
+    "cuisine": "Pakistani"
+  },
+  {
+    "abbr": "BP",
+    "name": "Beggar's Purse",
+    "cuisine": "Pakistani"
+  },
+  {
+    "abbr": "PP",
+    "name": "Prawn Pie",
+    "cuisine": "Continental"
+  },
+  {
+    "abbr": "PS",
+    "name": "Paneer Steak",
+    "cuisine": "Continental"
+  },
+  {
+    "abbr": "BF",
+    "name": "Batter Fish",
+    "cuisine": "Continental"
+  },
+  {
+    "abbr": "HRC",
+    "name": "Honey Roast Chicken",
+    "cuisine": "Continental"
+  },
+  {
+    "abbr": "SE",
+    "name": "Scotch Egg",
+    "cuisine": "Continental"
+  },
+  {
+    "abbr": "OM",
+    "name": "Omelette",
+    "cuisine": "American"
+  }
+  
+]
