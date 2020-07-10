@@ -8,3 +8,5 @@ An autocomplete search tool
 ** Do not open "index.html" directly without opening the local server. The file will not work properly .
 
 If you are using Visual Studio (preferable) open "index.html" in any server of your choice.
+
+"Demo.mp4" is uploaded to show implementation of project
