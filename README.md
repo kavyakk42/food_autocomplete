@@ -1,7 +1,7 @@
 # food_autocomplete
 An autocomplete search tool
 
-1> Have Node.js installed in your system.
+1> Have Node.js installed in your system. If you dont have node js insalled go to "https://nodejs.org/en/download/" and install it.
 
 2> In CMD, run the command "npm install http-server -g"
 
